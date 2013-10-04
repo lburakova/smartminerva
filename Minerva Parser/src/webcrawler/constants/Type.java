@@ -1,0 +1,33 @@
+package webcrawler.constants;
+
+public enum Type {Break_Out_Room,
+	Clinical_Teaching,
+	Colloquium,
+	Conference,
+	Field_Course_DEPT,
+	Field_Course_GDEU,
+	Final_Exam,
+	Follow_up_lab,
+	Internship,
+	Laboratory,
+	Lecture,
+	Lecture_demonstration,
+	Make_up_Class,
+	Midterm_Exam,
+	Optional_Tutorial,
+	Physical_Activities_Skill,
+	Pre_Lab,
+	Presentation,
+	Project,
+	Proposal,
+	Reading_Course,
+	Rehearsal,
+	Research_Course,
+	Screening,
+	Seminar,
+	Small_Group_Teaching,
+	Studio,
+	Topics_Course,
+	Tutorial;
+
+}
