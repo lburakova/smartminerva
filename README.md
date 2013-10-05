@@ -7,11 +7,12 @@ Smart Minerva
 
 ### Part 2: Schedule Builder
   * Queries the SQLite database
-  * Stores schedules as 2D array
   * Will return all possible schedules without conflicts
   * Displays schedules in plain-text
+  * Test class provided with sample usage
   
 ### The Plan:
+  * Comment the code a bit more
   * Develop for mobile
   * Code more efficiently
   * Export to popular calendar formats
