@@ -2,8 +2,8 @@ Smart Minerva
 ============
 
 ### Part 1: WebCrawler (Spider-man)
-  * I scrape using Apache HTTPClient
-  * I parse the data to SQLite
+  * Scraped using Apache HTTPClient
+  * Parsed the data to SQLite
 
 ### Part 2: Schedule Builder
   * Queries the SQLite database
